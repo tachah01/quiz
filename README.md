@@ -2,7 +2,7 @@
 
 #!/bin/bash
 # Author:Tifuh
-# date: 23/07/2021
+# date: 22/07/2021
 # Installing Jenkins
 # You can execute this script as user-data when launching your EC2 VM.
 cd /opt
